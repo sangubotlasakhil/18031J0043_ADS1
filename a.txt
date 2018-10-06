@@ -1,0 +1,104 @@
+########## Testcase 0: Passed ##########
+Expected Output: 
+70
+
+Your Output: 
+70
+
+----------------------------------------
+########## Testcase 1: Passed ##########
+Expected Output: 
+528
+
+Your Output: 
+528
+
+----------------------------------------
+########## Testcase 2: Passed ##########
+Expected Output: 
+4039
+
+Your Output: 
+4039
+
+----------------------------------------
+########## Testcase 3: Passed ##########
+Expected Output: 
+32074
+
+Your Output: 
+32074
+
+----------------------------------------
+Result: 4/4 testcases passed.
+Starting audit...
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:4: Missing a Javadoc comment. [JavadocType]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:4:2: Utility classes should not have a public or default constructor. [HideUtilityClassConstructor]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:5: Line has trailing spaces. [RegexpSingleline]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:5:1: File contains tab characters (this is the first instance). [FileTabCharacter]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:5:9: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:5:50: Parameter arr should be final. [FinalParameters]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:6:9: '{' at column 2 should be on the previous line. [LeftCurly]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:7: 'for' construct must use '{}'s. [NeedBraces]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:8: 'if' construct must use '{}'s. [NeedBraces]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:8:32: '-' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:8:33: '-' is not followed by whitespace. [WhitespaceAround]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:11: Line has trailing spaces. [RegexpSingleline]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:11:9: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:11:37: Parameter arr should be final. [FinalParameters]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:12:9: '{' at column 2 should be on the previous line. [LeftCurly]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:15: 'if' construct must use '{}'s. [NeedBraces]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:15: Line is longer than 80 characters (found 109). [LineLength]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:16: Line has trailing spaces. [RegexpSingleline]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:17:9: '{' at column 9 should be on the previous line. [LeftCurly]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:18: Line has trailing spaces. [RegexpSingleline]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:18:27: '+' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:18:28: '+' is not followed by whitespace. [WhitespaceAround]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:19:13: '{' at column 13 should be on the previous line. [LeftCurly]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:21: 'if' construct must use '{}'s. [NeedBraces]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:21: Line is longer than 80 characters (found 84). [LineLength]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:24: Line has trailing spaces. [RegexpSingleline]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:25:10: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:25:34: Parameter arr should be final. [FinalParameters]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:28: 'if' construct must use '{}'s. [NeedBraces]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:28: Line is longer than 80 characters (found 117). [LineLength]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:31:35: '+' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:31:36: '+' is not followed by whitespace. [WhitespaceAround]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:33: Line has trailing spaces. [RegexpSingleline]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:34:25: '{' at column 18 should be on the previous line. [LeftCurly]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:35:38: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:35:39: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:35:44: '+' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:35:45: '+' is not followed by whitespace. [WhitespaceAround]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:37: Line has trailing spaces. [RegexpSingleline]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:41: Line has trailing spaces. [RegexpSingleline]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:42: Line has trailing spaces. [RegexpSingleline]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:42:10: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:42:34: Parameter args should be final. [FinalParameters]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:43: Line has trailing spaces. [RegexpSingleline]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:43:10: '{' at column 3 should be on the previous line. [LeftCurly]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:45:41: '(' is preceded with whitespace. [MethodParamPad]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:46:18: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:46:19: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:48:20: 'for' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:48:26: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:48:27: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:48:29: ';' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:48:30: '<' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:48:31: '<' is not followed by whitespace. [WhitespaceAround]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:48:33: ';' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:49:17: '{' at column 10 should be on the previous line. [LeftCurly]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:50:29: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:50:30: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:53: Line is longer than 80 characters (found 83). [LineLength]
+[ERROR] D:\Ads\ADS-1\practice\module3\3-sum\Solution.java:55: Line has trailing spaces. [RegexpSingleline]
+Audit done.
+Checkstyle ends with 60 errors.
+
+
+[master 75e4c89] "check_style_score -> 4 of 4 passed. style score: 0/1 "
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 3-sum/a.txt
+
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
