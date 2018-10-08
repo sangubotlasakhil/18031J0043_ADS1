@@ -1,0 +1,23 @@
+
+1.ans.010010
+
+2.ans.deepak
+
+3.ans.d,e
+
+4.ans. 1 1 1 1 1 1 1 1 1 1 
+
+		minimum:3,4 :8,0:2,3:5,6:7,3
+		maximum:6-1
+ 
+5.
+
+6.ans.error
+
+7.ans.N*iog N
+
+8.ans.N
+
+9.ans.N^2
+
+10.ans. 1 1 1 1 1 1 1 1 1 1
