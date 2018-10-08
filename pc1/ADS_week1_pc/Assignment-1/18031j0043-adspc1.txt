@@ -1,0 +1,562 @@
+########## Testcase 0: Failed ##########
+Expected Output:
+999
+111
+
+Your Output:
+Error: Could not find or load main class SOlution
+Caused by: java.lang.NoClassDefFoundError: Solution (wrong name: SOlution)
+
+----------------------------------------
+########## Testcase 1: Failed ##########
+Expected Output:
+46498418098527020928092840923840932840923
+9823374982374823748237402340274074237427303840923
+
+Your Output:
+Error: Could not find or load main class SOlution
+Caused by: java.lang.NoClassDefFoundError: Solution (wrong name: SOlution)
+
+----------------------------------------
+########## Testcase 2: Failed ##########
+Expected Output:
+46498418096287594875984759875982759875982759827598275297529875982759827598427598475987459872985729752987598475982759827598275982752857298578527020928092840923840932840923
+9823374982374823748237402759827592857982759827592759827598275982759827598275982759827592759827598798572985729857298759287598275982759827598275987589759827502752987598475928759287589340274074237427303840923
+
+Your Output:
+Error: Could not find or load main class SOlution
+Caused by: java.lang.NoClassDefFoundError: Solution (wrong name: SOlution)
+
+----------------------------------------
+########## Testcase 3: Failed ##########
+Expected Output:
+909
+0
+
+Your Output:
+Error: Could not find or load main class SOlution
+Caused by: java.lang.NoClassDefFoundError: Solution (wrong name: SOlution)
+
+----------------------------------------
+########## Testcase 4: Failed ##########
+Expected Output:
+90978978957984759847598437508870270982748937849723646465649480498409849808409408441616549840984984040123456789009876543234567898765432345678994334567423456767723445678655678254567682682395828756287238687223876582765238428492837823723879238482364823762387623749698236529659286529876827362378786238752376523876236239876237629876823768927
+873493279823759823759823798237379832780932798237982798237982792387982379238798237598237598237823784723987270193871397130872396523998701743197998398146981319846198649813644984094654184984084984410
+
+Your Output:
+Error: Could not find or load main class SOlution
+Caused by: java.lang.NoClassDefFoundError: Solution (wrong name: SOlution)
+
+----------------------------------------
+########## Testcase 5: Failed ##########
+Expected Output:
+909789789579847598475984375088702709827489378497236464656494804984098498084094084416165498409849840401234567890098765432345678987654323456789943345674234567677234462795692659265926529652985698255678655678254567682682395828756287238687223876582765238428492837823723879238482364823762387623749698236529659286529876827362378786238752376523876236239876237629876823768927
+87349327982375982375982379823737983278093279823798279823798279238798237923879823759823759823782378472398727019387139713087239652399870174319799839814698131984619864981364498407598237598237598723958723985729857298572987582752375923857923752985729385723985720357023572098572985723985723923752035723957298572985723985794654184984084984410
+
+Your Output:
+Error: Could not find or load main class SOlution
+Caused by: java.lang.NoClassDefFoundError: Solution (wrong name: SOlution)
+
+----------------------------------------
+########## Testcase 6: Failed ##########
+Expected Output:
+1110
+
+Your Output:
+Error: Could not find or load main class SOlution
+Caused by: java.lang.NoClassDefFoundError: Solution (wrong name: SOlution)
+
+----------------------------------------
+########## Testcase 7: Failed ##########
+Expected Output:
+17298729465094143782178336767086358354
+
+Your Output:
+Error: Could not find or load main class SOlution
+Caused by: java.lang.NoClassDefFoundError: Solution (wrong name: SOlution)
+
+----------------------------------------
+########## Testcase 8: Failed ##########
+Expected Output:
+729872958698639793875938799167856438593339414617744257892770845889626807538530965376456562998953974417154274561997373497348635094143782178336767086358354
+
+Your Output:
+Error: Could not find or load main class SOlution
+Caused by: java.lang.NoClassDefFoundError: Solution (wrong name: SOlution)
+
+----------------------------------------
+########## Testcase 9: Failed ##########
+Expected Output:
+2119
+
+Your Output:
+Error: Could not find or load main class SOlution
+Caused by: java.lang.NoClassDefFoundError: Solution (wrong name: SOlution)
+
+----------------------------------------
+########## Testcase 10: Failed ##########
+Expected Output:
+729872958698639793875938798437983479843832822055718717801745594186420178272238311955785142425542311974286782795967854242503409135283639282507735296484809448531065366538635078962894008449758000516628886998689991009100968585617778406995389934817017474335197197478437598335718721620738073142148778449041336701370143782178336767086358354
+
+Your Output:
+Error: Could not find or load main class SOlution
+Caused by: java.lang.NoClassDefFoundError: Solution (wrong name: SOlution)
+
+----------------------------------------
+########## Testcase 11: Failed ##########
+Expected Output:
+72987295869863979387593879843798347984383282205571871780174559418642017827223831195578514242554231197428678279596785424250340913528363928250773537281123831687861811513173877862918587519222744223594642197433146034236035877472705421901972318273733013123340377487760905478670014081581201129930929102021011408239201201201292016538635078962894008449758000516628886998689991009100968585617778406995389934817017474335197197478437598335718721620738073142148778449041336701370143782178336767086358354
+
+Your Output:
+Error: Could not find or load main class SOlution
+Caused by: java.lang.NoClassDefFoundError: Solution (wrong name: SOlution)
+
+----------------------------------------
+Result: 0/12 testcases passed.
+Starting audit...
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:0: File does not end with a newline. [NewlineAtEndOfFile]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:2: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:2: Missing a Javadoc comment. [JavadocType]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:3:1: '{' at column 1 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:4:1: File contains tab characters (this is the first instance). [FileTabCharacter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:4:9: Missing a Javadoc comment. [JavadocVariable]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:4:13: Variable 'data' must be private and have accessor methods. [VisibilityModifier]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:5:9: Missing a Javadoc comment. [JavadocVariable]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:5:15: Variable 'next' must be private and have accessor methods. [VisibilityModifier]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:6:11: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:6:11: Redundant 'public' modifier. [RedundantModifier]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:6:24: Parameter a should be final. [FinalParameters]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:7:10: '{' at column 3 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:8:22: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:8:23: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:9:22: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:9:23: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:10: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:13: Missing a Javadoc comment. [JavadocType]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:14:2: '{' at column 2 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:15:10: Missing a Javadoc comment. [JavadocVariable]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:15:16: Variable 'head' must be private and have accessor methods. [VisibilityModifier]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:16: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:17: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:18: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:19: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:20:9: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:20:29: Parameter a should be final. [FinalParameters]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:21:9: '{' at column 3 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:22:24: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:22:25: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:23: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:24:19: 'if' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:24:24: '==' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:24:26: '==' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:25:17: '{' at column 4 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:26:29: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:26:30: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:27:17: '}' at column 4 should be on the same line as the next part of a multi-block statement (one that directly contains multiple blocks: if/else-if/else, do/while or try/catch/finally). [RightCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:29:17: '{' at column 4 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:29:17: '{' at column 4 should have line break after. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:29:37: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:30:22: 'while' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:30:32: '!=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:30:34: '!=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:31:17: '{' at column 4 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:32:29: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:32:30: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:34: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:35:26: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:35:27: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:37: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:39:9: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:40:9: '{' at column 2 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:41:28: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:41:29: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:42: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:43:19: 'if' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:43:24: '==' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:43:26: '==' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:44: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:45:17: '{' at column 3 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:48:17: '}' at column 3 should be on the same line as the next part of a multi-block statement (one that directly contains multiple blocks: if/else-if/else, do/while or try/catch/finally). [RightCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:49:24: 'if' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:49:34: '==' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:49:36: '==' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:50:17: '{' at column 3 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:50:17: '{' at column 3 should have line break after. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:50:18: '{' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:50:28: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:50:29: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:51:21: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:51:22: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:53:17: '}' at column 3 should be on the same line as the next part of a multi-block statement (one that directly contains multiple blocks: if/else-if/else, do/while or try/catch/finally). [RightCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:55:17: '{' at column 3 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:56:35: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:56:36: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:57: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:58:22: 'while' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:58:37: '!=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:58:39: '!=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:59:17: '{' at column 3 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:60:29: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:60:30: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:62:22: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:62:23: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:63:26: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:63:27: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:66: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:69: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:70:9: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:71: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:71:9: '{' at column 2 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:72:27: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:72:28: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:73:19: 'if' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:73:24: '==' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:73:26: '==' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:74:17: '{' at column 3 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:76:17: '}' at column 3 should be on the same line as the next part of a multi-block statement (one that directly contains multiple blocks: if/else-if/else, do/while or try/catch/finally). [RightCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:78:17: '{' at column 3 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:79:22: 'while' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:79:27: '!=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:79:29: '!=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:80:17: '{' at column 3 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:81: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:82:53: '+' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:82:54: '+' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:83:29: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:83:30: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:87:9: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:87:27: Parameter a should be final. [FinalParameters]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:88:9: '{' at column 2 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:90:24: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:90:25: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:91: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:92:19: 'if' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:92:24: '==' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:92:26: '==' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:93:17: '{' at column 4 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:94:29: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:94:30: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:95:17: '}' at column 4 should be on the same line as the next part of a multi-block statement (one that directly contains multiple blocks: if/else-if/else, do/while or try/catch/finally). [RightCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:97:17: '{' at column 4 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:97:17: '{' at column 4 should have line break after. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:97:34: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:97:35: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:98:25: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:98:26: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:100: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:102:9: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:103:9: '{' at column 2 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:104: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:105:19: 'if' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:105:24: '==' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:105:26: '==' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:106:17: '{' at column 4 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:108:17: '}' at column 4 should be on the same line as the next part of a multi-block statement (one that directly contains multiple blocks: if/else-if/else, do/while or try/catch/finally). [RightCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:110:17: '{' at column 4 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:110:17: '{' at column 4 should have line break after. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:110:36: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:110:37: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:111:21: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:111:22: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:114: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:116:9: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:117:9: '{' at column 2 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:117:9: '{' at column 2 should have line break after. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:117:10: '{' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:117:21: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:117:22: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:118:18: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:118:19: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:119:14: 'while' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:119:20: '!=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:119:22: '!=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:120:9: '{' at column 2 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:121:22: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:121:23: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:123: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:126: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:128:9: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:129:33: '+' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:129:34: '+' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:129:36: '+' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:129:37: '+' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:131: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:134: Missing a Javadoc comment. [JavadocType]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:135:5: Missing a Javadoc comment. [JavadocVariable]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:135:9: Variable 'count1' must be private and have accessor methods. [VisibilityModifier]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:135:15: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:135:16: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:136:5: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:136:46: Parameter number should be final. [FinalParameters]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:137: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:138:22: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:138:23: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:139:11: 'if' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:139:27: '<' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:139:28: '9' is a magic number. [MagicNumber]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:139:28: '<' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:140:9: '{' at column 6 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:141:14: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:141:15: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:144:9: '}' at column 6 should be on the same line as the next part of a multi-block statement (one that directly contains multiple blocks: if/else-if/else, do/while or try/catch/finally). [RightCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:146: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:146:9: '{' at column 6 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:147:24: Array brackets at illegal position. [ArrayTypeStyle]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:147:26: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:147:27: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:148:20: 'for' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:148:31: ';' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:148:32: '<' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:148:33: '<' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:148:43: ';' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:149:17: '{' at column 7 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:149:17: '{' at column 7 should have line break after. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:149:18: '{' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:149:23: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:149:24: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:149:29: '-' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:149:30: '-' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:149:30: '48' is a magic number. [MagicNumber]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:157:5: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:157:41: Parameter list should be final. [FinalParameters]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:158: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:159:18: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:159:19: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:163: Line is longer than 80 characters (found 85). [LineLength]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:163:5: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:163:47: Parameter list1 should be final. [FinalParameters]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:163:66: Parameter list2 should be final. [FinalParameters]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:164:23: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:164:24: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:165:11: 'if' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:165:24: '<' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:165:25: '9' is a magic number. [MagicNumber]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:165:25: '<' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:165:42: '<' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:165:43: '9' is a magic number. [MagicNumber]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:165:43: '<' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:166:9: '{' at column 6 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:167:15: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:167:16: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:167:30: '+' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:167:31: '+' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:171:9: '}' at column 6 should be on the same line as the next part of a multi-block statement (one that directly contains multiple blocks: if/else-if/else, do/while or try/catch/finally). [RightCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:173:9: '{' at column 6 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:173:9: '{' at column 6 should have line break after. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:173:10: '{' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:173:16: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:173:17: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:173:19: ',' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:173:22: ',' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:173:29: ',' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:173:32: ',' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:175:27: 'if' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:175:40: '>' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:175:41: '>' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:176:17: '{' at column 7 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:177:28: 'for' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:177:30: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:177:31: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:177:33: ';' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:177:34: '<' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:177:35: '<' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:177:48: ';' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:178:25: '{' at column 8 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:179:27: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:179:28: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:179:43: ';' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:179:45: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:179:46: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:180:27: 'if' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:180:33: '5' is a magic number. [MagicNumber]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:180:33: '>=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:180:40: '>=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:180:42: '5' is a magic number. [MagicNumber]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:180:42: '>=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:181:25: '{' at column 8 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:182:35: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:182:36: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:182:38: '+' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:182:39: '+' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:182:41: '+' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:182:42: '+' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:184:35: 'if' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:184:38: '>' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:184:39: '>' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:185:33: '{' at column 9 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:186:43: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:186:44: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:186:46: '/' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:186:47: '/' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:187:33: '}' at column 9 should be on the same line as the next part of a multi-block statement (one that directly contains multiple blocks: if/else-if/else, do/while or try/catch/finally). [RightCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:189:33: '{' at column 9 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:190:43: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:190:44: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:190:46: '/' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:190:47: '/' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:192: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:193:25: '}' at column 8 should be on the same line as the next part of a multi-block statement (one that directly contains multiple blocks: if/else-if/else, do/while or try/catch/finally). [RightCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:195:25: '{' at column 8 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:196:27: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:196:28: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:196:30: '+' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:196:31: '+' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:196:33: '+' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:196:34: '+' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:200:27: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:200:28: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:203:17: '}' at column 7 should be on the same line as the next part of a multi-block statement (one that directly contains multiple blocks: if/else-if/else, do/while or try/catch/finally). [RightCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:205:17: '{' at column 7 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:206:28: 'for' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:206:30: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:206:31: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:206:33: ';' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:206:34: '<' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:206:35: '<' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:206:48: ';' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:207:25: '{' at column 8 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:208:27: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:208:28: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:208:43: ';' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:208:45: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:208:46: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:209:27: 'if' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:209:33: '5' is a magic number. [MagicNumber]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:209:33: '>=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:209:40: '>=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:209:42: '5' is a magic number. [MagicNumber]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:209:42: '>=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:210:25: '{' at column 8 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:211:35: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:211:36: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:211:38: '+' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:211:39: '+' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:211:41: '+' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:211:42: '+' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:213:35: 'if' is not followed by whitespace. [WhitespaceAfter]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:213:38: '>' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:213:39: '>' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:214:33: '{' at column 9 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:215:43: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:215:44: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:215:46: '/' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:215:47: '/' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:216:33: '}' at column 9 should be on the same line as the next part of a multi-block statement (one that directly contains multiple blocks: if/else-if/else, do/while or try/catch/finally). [RightCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:218:33: '{' at column 9 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:219:43: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:219:44: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:219:46: '/' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:219:47: '/' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:221: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:222:25: '}' at column 8 should be on the same line as the next part of a multi-block statement (one that directly contains multiple blocks: if/else-if/else, do/while or try/catch/finally). [RightCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:224:25: '{' at column 8 should be on the previous line. [LeftCurly]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:225:27: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:225:28: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:225:30: '+' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:225:31: '+' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:225:33: '+' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:225:34: '+' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:229:27: '=' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:229:28: '=' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:232: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:233: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:235: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:241: Missing a Javadoc comment. [JavadocType]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:241:1: Utility classes should not have a public or default constructor. [HideUtilityClassConstructor]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:242:5: Missing a Javadoc comment. [JavadocMethod]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:242:29: Parameter args should be final. [FinalParameters]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:247: switch without "default" clause. [MissingSwitchDefault]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:247:15: 'switch' is not followed by whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:247:22: '{' is not preceded with whitespace. [WhitespaceAround]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:250: Line has trailing spaces. [RegexpSingleline]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:259: Line is longer than 80 characters (found 89). [LineLength]
+[ERROR] C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1\SOlution.java:264: Line has trailing spaces. [RegexpSingleline]
+Audit done.
+Checkstyle ends with 357 errors.
+
+
+[child 582096f] "check_style_score -> 0 of 12 passed. style score: 0/1 "
+ 4 files changed, 0 insertions(+), 0 deletions(-)
+
+Everything up-to-date
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+
+C:\Users\Akhil\Documents\GitHub\18031J0043_ADS1\pc1\ADS_week1_pc\Assignment-1>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
