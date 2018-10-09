@@ -84,7 +84,7 @@ public static void main(String a[]){
 
 	int i;
 	String str[]=new String [n];
-	for( i=0;sc.hasNext();i++)
+	for( i=0;i<=n;i++)
 	{
 		str[i]=sc.nextLine();
 		
@@ -92,7 +92,7 @@ public static void main(String a[]){
 	}
 	//System.out.println(str[5]);
 	String a1[]=new String[1];
-	for( i=0;i<n;i++)
+	for( i=0;i<=n;i++)
 	{
 		a1=str[i].split(" ");
 		
@@ -108,7 +108,7 @@ public static void main(String a[]){
 						break;
 		case "popLeft" :deq.removeFront();
 						break;
-		case "size":System.out.println(deq.Size());
+		case "size" : System.out.println(deq.Size());
 					break;
 		default :
 					break;			
