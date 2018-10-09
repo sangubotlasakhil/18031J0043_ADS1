@@ -84,7 +84,7 @@ public static void main(String a[]){
 
 	int i;
 	String str[]=new String [n];
-	for( i=0;sc.hasNext();i++)
+	for( i=0;i<n;i++)
 	{
 		str[i]=sc.nextLine();
 		
