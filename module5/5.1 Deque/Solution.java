@@ -21,7 +21,7 @@ import java.util.*;
      
     public void removeFront(){
         if(deque.isEmpty()){
-            System.out.println("Deque underflow!! unable to remove.");
+            System.out.println("Deck is empty");
             return;
         }
         //remove an item from the beginning of the queue
@@ -32,7 +32,7 @@ import java.util.*;
      
     public void removeRear(){
         if(deque.isEmpty()){
-            System.out.println("Deque underflow!! unable to remove.");
+            System.out.println("Deck is empty");
             return;
         }
         //remove an item from the beginning of the queue
