@@ -73,6 +73,9 @@ class Queuee {
             return;
         }
     	int rem = deque.remove(n);
+		if(Size()==0)
+        System.out.print(rem);
+		else
     	System.out.print(rem+" ");
     	
     }
