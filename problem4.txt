@@ -1,0 +1,9 @@
+Module 8 - Elementary sorts
+Learning by doing-4
+Which method runs faster for an array in reverse order, basic selection sort or basic insertion sort? ======>>>> insortion Sort
+
+Answer the above problem in a file name problem-4.txt and add it to the folder ADS-1-practice/m8
+Push the respository to GitHub when your answer is done
+Enter the git commit ID in the blank below
+
+ans:insertion Sort
