@@ -27,7 +27,8 @@ class Solution
 			Team t=new Team(b[0],Integer.parseInt(b[1]),Integer.parseInt(b[2]),Integer.parseInt(b[3]));
 			al.add(t);
 		}
-
+			  
+			   
 			   for (int i = 0; i < al.size()-1; i++)
 			   {
 			      int min = i;
@@ -41,6 +42,11 @@ class Solution
 			   while(itr1.hasNext())
 			   {
 				   Team t=(Team) itr1.next();
+				   if(!itr1.hasNext())
+				   {
+					   System.out.print(t.TeamName);
+					   break;
+				   }
 				   System.out.print(t.TeamName+",");
 			   }
 			   
