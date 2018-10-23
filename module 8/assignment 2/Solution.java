@@ -39,7 +39,7 @@ class Solution
 		           j--;
 		      }
 		     
-		      al.set(j, index);
+		      al.set(j+1, index);
 		} }
 			   Iterator itr1=al.iterator();
 			   while(itr1.hasNext())
