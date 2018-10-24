@@ -230,25 +230,7 @@ public class Solution
 	{
 		LList ll=new LList();
 		
-		/*for(int i=0;i<5;i++)
-		{
-			ll.pushfront(i);
-		}
 		
-		ll.disply();*/
-		/*ll.pushpp(0,5);
-		ll.disply();
-		System.out.println();
-		ll.pushpp(0,7);
-		ll.disply();
-		System.out.println();
-		ll.pushpp(1, 6);
-		//ll.reverse(head);
-		ll.disply();
-		ll.reverse();
-		System.out.println();
-		ll.disply();
-		*/
 		Scanner sc=new Scanner(System.in);
 
 		String st[]=new String[3];

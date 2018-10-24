@@ -1,5 +1,3 @@
-package module10;
-
 
 import java.io.*;
 import java.util.Scanner;
