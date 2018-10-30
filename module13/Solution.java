@@ -1,8 +1,32 @@
 
-
-import java.io.*;
 import java.util.*;
-class Dynamicmedian 
+public class Solution {
+
+	public static void main(String[] args) {
+		Scanner s=new Scanner(System.in);
+		
+		Dynamicmedian dm=new Dynamicmedian();
+		int n=s.nextInt();
+		int a[] = new int[n];
+		int l=0;
+		
+		int b[] = null;
+		int c=0;
+		int i=0;
+		while(n>0)
+		{
+			a[i]=s.nextInt();
+			l=i+1;
+			dm.median(a,l);
+			i++;
+			//dm.printArray(a);
+			n--;
+		}
+
+	}
+
+}
+ class Dynamicmedian 
 {
 	int t[]=null;
 	static int j=0;
@@ -60,34 +84,34 @@ class Dynamicmedian
 	     int n = arr.length; 
 	    
 	    
-	     System.out.println(); 
+	     //System.out.println(); 
 	   //  System.out.println(l+"jk");
 		 if(l==1)
 		 {double no=arr[l-1];
 		 a[j]=no;
 		 j++;
-			System.out.print(no);
+			System.out.println(no);
 		 }
 		 else  if(l%2==0)
 		 {
 			double k= (double)(arr[(l/2)-1]+arr[(l/2)])/2.0;
 			a[j]=k;
 			j++;
-			System.out.print(k);
+			System.out.println(k);
 		 }
 		 else
 		 {
 			 double p=arr[((l)/2)];
 			 a[j]=p;
 			 j++;
-			 System.out.print(p);
+			 System.out.println(p);
 		 }
 	 }
 	 
 	 
 	 void  median( int arr[],int l)
 	 {
-		 //printArray(arr,l);
+		
 		 sort(arr,l);
 		 printArray(arr,l);
 		
@@ -95,30 +119,4 @@ class Dynamicmedian
 		 
 	 }
 	 
-}
-public class Solution {
-
-	public static void main(String[] args) {
-		Scanner s=new Scanner(System.in);
-		
-		Dynamicmedian dm=new Dynamicmedian();
-		int n=s.nextInt();
-		int a[] = new int[n];
-		int l=0;
-		
-		int b[] = null;
-		int c=0;
-		int i=0;
-		while(n>0)
-		{
-			a[i]=s.nextInt();
-			l=i+1;
-			dm.median(a,l);
-			i++;
-			//dm.printArray(a);
-			n--;
-		}
-
-	}
-
 }
