@@ -1,8 +1,0 @@
-S Y M B O L T A B L E
-floor M
-get D
-max
-rank T
-contains O
-deleteMin
-keys
