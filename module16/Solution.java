@@ -1,4 +1,3 @@
-package m16;
 
 import java.util.Scanner;
  class Book  {
